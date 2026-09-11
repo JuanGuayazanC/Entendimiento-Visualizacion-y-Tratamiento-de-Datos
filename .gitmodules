@@ -1,0 +1,12 @@
+[submodule "Talleres/Medidas-y-Estadisticos-EVTD"]
+	path = Talleres/Medidas-y-Estadisticos-EVTD
+	url = https://github.com/JuanGuayazanC/Medidas-y-Estadisticos-EVTD.git
+	branch = main
+[submodule "Recursos/Visualizacion-Exploratoria-Exoplanetas-EVTD"]
+	path = Recursos/Visualizacion-Exploratoria-Exoplanetas-EVTD
+	url = https://github.com/JuanGuayazanC/Visualizacion-Exploratoria-Exoplanetas-EVTD.git
+	branch = main
+[submodule "Proyectos/Analisis-Exploratorio-y-Visualizacion-del-Desempeno-ICFES-EVTD"]
+	path = Proyectos/Analisis-Exploratorio-y-Visualizacion-del-Desempeno-ICFES-EVTD
+	url = https://github.com/JuanGuayazanC/Analisis-Exploratorio-y-Visualizacion-del-Desempeno-ICFES-EVTD.git
+	branch = main
